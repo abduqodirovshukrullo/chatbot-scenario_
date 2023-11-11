@@ -1,0 +1,13 @@
+{
+    "Bandlikka ko'maklashish":[
+        {
+            "Variant 1":"Natija",
+            "Variant 2":[
+                {
+                    "Variant 2.1":"Natija",
+                    "Variant 2.2":"Natija"
+                }
+            ]
+        }
+    ]
+}
